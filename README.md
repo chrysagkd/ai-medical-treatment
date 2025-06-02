@@ -25,14 +25,18 @@ This repository contains **AI models and algorithms** for predicting and recomme
 
 
 **therapy_cancer_dl.py**
+
 Creates synthetic data and trains a neural network classifier for cancer treatment options: Chemotherapy, Radiation Therapy, Surgery.
 
 **therapy_diabetes_rf.py**
+
 Uses Random Forest to classify diabetes treatments: Lifestyle modification, Oral medications, Insulin therapy.
 
 **therapy_hypertension_simple.py**
+
 Provides a rule-based hypertension treatment recommendation based on blood pressure readings.
 
 **therapy_rl_dqn.py**
+
 Contains an HIV therapy simulation environment and Q-learning agent. Includes training progress plots and an animated demo.
 
